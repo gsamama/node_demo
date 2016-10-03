@@ -1,0 +1,16 @@
+{
+  "name": "blog-manu",
+  "version": "1.0.0",
+  "description": "A simple blog",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maikel Maas",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.10"
+  }
+}
